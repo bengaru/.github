@@ -1,6 +1,6 @@
 # Welcome to Bengaru
 
-Bengaru: Where Innovation Meets Excellence
+🚀 Bengaru: Where Innovation Meets Excellence 🌟
 
 At Bengaru, we're more than just a software company – we're a dynamic team of passionate individuals dedicated to pushing the boundaries of technology. Our mission is simple: to deliver cutting-edge software solutions that empower businesses and individuals to thrive in today's digital landscape.
 
@@ -13,4 +13,4 @@ Join us at Bengaru and be part of a team that's shaping the future of technology
 Explore our website to learn more about our services and discover how Bengaru can help you achieve your goals.
 
 ---
-[Learn more about Bengaru](https://www.bengaru.co)
+[Learn more about Bengaru](https://www.bengaru.com)
